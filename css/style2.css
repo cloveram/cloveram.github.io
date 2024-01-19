@@ -1,0 +1,19 @@
+img{
+    height: 1000px;
+    width: 1000px;
+}
+
+boDY{
+    background-color: aquamarine;
+
+
+}
+
+.true{
+    align-items: flex-start;
+}
+
+.gal-img{
+    max-width: 50%;
+    height: auto;
+}
